@@ -10,7 +10,7 @@ namespace DoNetTest.ConsoleApp
     {
         public static void Test()
         {
-
+            Console.WriteLine("hello world");
         }
     }
 }
